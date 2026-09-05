@@ -9,3 +9,5 @@
 1. **TG-bots** on AIOgram
 2. **GUI-apps** on CTk
 3. **Asyncio and threading**
+
+### Write on email
